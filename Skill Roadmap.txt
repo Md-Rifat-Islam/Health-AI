@@ -1,4 +1,0 @@
-App Dev: Flutter, Dart
-Cloud: Azure
-Hardware: Arduino, Sensors
-ML/AI: Python -> Libraries (numpy, pandas) -> mL basics -> nlp -> cloud integration
