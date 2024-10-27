@@ -9,7 +9,7 @@ https://lnkd.in/gmRtcERr
 
 
 ### Features: 
-![UI of Health AI app](./Images/app_UI.jepg)
+![UI of Health AI app](./Images/app_UI.jpeg)
 
 1.1. Health AI Chatbot for discussing symptoms and getting predictions about the exact disease name with care suggestions.
 
