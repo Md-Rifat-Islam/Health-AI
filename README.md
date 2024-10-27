@@ -1,7 +1,7 @@
 # Health-AI
 ### A Personal Healthcare Companion App
 
-
+!["Health AI" has been selected for Microsoft Founders Hub](./Images/founders_hub.png)
 Glad to announce that after 1 year of planning, developing, and testing phase, our app Health AI: A Personal Healthcare Companion is officially in the Beta release phase. 
 
 ### Watch the Demo on YouTube:
@@ -9,6 +9,7 @@ https://lnkd.in/gmRtcERr
 
 
 ### Features: 
+![UI of Health AI app](./Images/app UI.jepg)
 
 1.1. Health AI Chatbot for discussing symptoms and getting predictions about the exact disease name with care suggestions.
 
