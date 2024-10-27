@@ -1,52 +1,58 @@
 # Health-AI
 ### A Personal Healthcare Companion App
 
-!["Health AI" has been selected for Microsoft Founders Hub](./Images/founders_hub.png)
-Glad to announce that after 1 year of planning, developing, and testing phase, our app Health AI: A Personal Healthcare Companion is officially in the Beta release phase. 
+![Health AI selected for Microsoft Founders Hub](./Images/founders_hub.png)
+We are thrilled to announce that, after 1 year of planning, development, and testing, our app **Health AI: A Personal Healthcare Companion** is officially in the Beta release phase!
 
 ### Watch the Demo on YouTube:
-https://lnkd.in/gmRtcERr
+[Watch Here](https://lnkd.in/gmRtcERr)
 
+---
 
-### Features: 
+### Features
 ![UI of Health AI app](./Images/app_UI.jpeg)
 
-1.1. Health AI Chatbot for discussing symptoms and getting predictions about the exact disease name with care suggestions.
+**1. Health AI Chatbot**
+- **1.1** Chat with Health AI to discuss symptoms and receive predictions on possible diseases, along with care suggestions.
+- **1.2** Access information about various diseases and symptoms.
 
-1.2. Health AI Chatbot for information and symptoms about various diseases.
+**2. Doctor Suggestion Module**
+- **2.1** Find domain-specific specialists and their contact information in a particular region.
 
-2.1. Doctor Suggestion module for finding specific domain specialist doctors' contact information in a particular region.
+**3. Cure Suggestion Module**
+- **3.1** Discover home remedies for various diseases.
 
-3.1. Cure Suggestion module for finding home remedies for various diseases.
+**4. Health Analytics Module**
+- **4.1** Measure health metrics such as heart rate, oxygen level, and temperature (requires hardware device).
+- **4.2** Visualize health data with graphs and receive feedback on collected health information.
 
-4.1. Health Analytics module for measuring various health metrics such as heart rate, oxygen level, and temperature (requires hardware device).
+**5. SOS Module**
+- **5.1** Send current location and an SOS message to saved contacts in case of an emergency.
+- **5.2** Locate the nearest hospital and share the current location with the hospital to request ambulance services in an emergency.
 
-4.2. Health Analytics module for health data visualization with graphs and feedback on gathered data.
+---
 
-5.1. SOS module to send current location to saved contact in case of emergency with an SOS message.
+### Tools Used
+- **Frontend**: Flutter
+- **Database**: Firebase
+- **AI Services**: Microsoft Azure
 
-5.2. SOS module to find the closest hospital and to send the current location to that hospital for an ambulance service in an emergency situation.
+---
 
-### Tools used: 
-Frontend: Flutter
+### Our Team
+- **Jamal Uddin Tanvin**
+- **MD Rifat Islam**
+- **Md Tausiful Haque**
+- **Nurshat Fateh Ali**
 
-Database: Firebase
+---
 
-AI services: Microsoft Azure
+### For Detailed SRS, Evaluation Report, and Poster Presentation
+[Access Documents Here](https://drive.google.com/drive/folders/14gCObKJ2Yv035-dUbye9Di-Sf9uKWvCA)
 
+---
 
-### Our team:
-Jamal Uddin Tanvin
+### For Business Collaborations
+- **Email**: [nurshatfateh@gmail.com](mailto:nurshatfateh@gmail.com)
+- **Email**: [rifat010bushra@gmail.com](mailto:rifat010bushra@gmail.com)
 
-MD Rifat Islam
-
-Md Tausiful Haque
-
-Nurshat Fateh Ali
-
-
-### For detailed SRS, Evaluation report, and Poster presentation:
-https://drive.google.com/drive/folders/14gCObKJ2Yv035-dUbye9Di-Sf9uKWvCA
-
-### For business collaborations:
-Email: nurshatfateh@gmail.com
